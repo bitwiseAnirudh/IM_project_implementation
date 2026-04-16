@@ -1,5 +1,4 @@
 # IM_project_implementation
-# IM_project_implementation
 
 The goal of this project was to implement the multi objective production scheduling model from Fechete and Nedelcu (2022) using Python and to verify whether the published results could be independently replicated. The theoretical framework i.e. combining AHP for weight elicitation with a weighted sum MOLP formulation is conceptually sound and is a reasonable approach for balancing conflicting organizational objectives. The Python implementation using scipy.optimize.linprog worked correctly for all four subproblems.
 
